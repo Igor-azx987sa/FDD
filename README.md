@@ -1,5 +1,5 @@
 # FDD
 
-![Image](preview.jpg)
+![Image](Preview.jpg)
 
 П
